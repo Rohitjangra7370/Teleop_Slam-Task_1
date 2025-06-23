@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/olympusforge/mars_rover/install/turtlebot3_msgs/include/**",
+        "/home/olympusforge/mars_rover/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/olympusforge/mars_rover/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/olympusforge/mars_rover/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/olympusforge/mars_rover/src/DynamixelSDK/ros/dynamixel_sdk_examples/include/**",
+        "/home/olympusforge/mars_rover/src/tod_nav2/include/**",
+        "/home/olympusforge/mars_rover/src/turtlebot3/turtlebot3_node/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
